@@ -1,0 +1,257 @@
+
+main section[id="lightOn"]{
+    position:relative;
+
+
+}
+
+
+main section[id="lightOn"] article{
+    float:left;
+    background-image: url("../images/image-en-avant.png");
+    background-repeat: no-repeat;
+    width:100%;
+    height:227px;
+    background-color: #fff;
+}
+
+main section[id="lightOn"] article{
+    width: 45.38%;
+    padding-left: 765px;
+
+    padding-top: 160px;
+
+}
+
+main section[id="lightOn"]{
+    position:relative;
+
+}
+
+main section[id="lightOn"] > section[id="part1"]{
+position:absolute;
+top:150px;
+left:625px;
+width:51.1%;
+height:143px;
+background-color: white;
+padding-left: 30px;
+
+
+}
+
+main section[id="lightOn"] > section[id="part1"] .sousTitre{
+    margin-top: 30px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+main section[id="lightOn"] > section[id="part1"] h2[id="topTitre"]{
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:5px;
+    margin-bottom: 5px;
+
+}
+
+main section[id="search"]{
+
+    float:left;
+    width:100%;
+    height:167px;
+    background-color: #a65447;
+    text-align: center;
+
+}
+
+main section[id="search"] label{
+    padding-top:30px;
+    display:block;
+    margin:0 auto;
+    font-size: 25px;
+    color: #ebebeb;
+
+
+
+}
+
+main section[id="search"] input{
+
+    width:48%;
+    height: 47px;
+    margin:0 auto;
+    margin-top: 20px;
+}
+
+main section[id="search"] a:link,
+main section[id="search"] a:visited{
+
+    color: #fafafa;
+    font-size: 16px;
+
+}
+
+
+
+main section[id="about"]{
+    width: 516px;
+    height:408px;
+    float:left;
+    padding:30px;
+    padding-top:0;
+    background-color: #ebebeb;
+
+}
+
+main section[id="about"],
+main section[id="lastNews"] p{
+    line-height: 1.6;
+}
+
+main section[id="lastNews"] p{
+    padding-top:
+}
+
+main section[id="lastNews"]{
+    position: relative;
+    width: 764px;
+    height:408px;
+    float:left;
+    padding:30px;
+    padding-top:0;
+    background-color: white;
+}
+
+main section[id="lastNews"] article{
+
+    padding-left: 248px;
+}
+
+
+main section[id="lastNews"] .imgDocs{
+    position:absolute;
+
+    bottom:0px;
+    left:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main section[id="lastModified"]{
+    width:63%;
+    float:left;
+}
+
+
+
+main section[id="lastModified"] article{
+    float:left;
+    margin-right: 30px;
+    background-image: url("http://lorempixel.com/407/250/");
+    background-repeat: no-repeat;
+    width:377px;
+    height:331px;
+    padding-top:260px;
+    background-color: white;
+    margin-bottom:30px;
+    padding-left: 30px;
+    padding-bottom: 30px;;
+}
+
+main section[id="lastModified"] article p{
+    line-height: 24px;
+    font-size: 16px;
+    width: 85%;
+    margin-top: 4.6%;
+    margin-bottom: 2.7%;
+
+
+}
+
+main section[id="lastModified"] article[id="topArticle"]{
+    float:left;
+    margin-right: 30px;
+    background-image: url("http://lorempixel.com/407/350/");
+    background-repeat: no-repeat;
+    width:407px;
+    height:350px;
+    padding-top:0;
+    padding-left: 437px;
+}
+
+
+main section[id="lastComments"]{
+
+    width:37%;
+    float:left;
+}
+
+main section[id="lastComments"] article{
+
+    padding:7.4%;
+    background-color: white;
+    margin-bottom: 7.4%;
+}
+
+main section[id="lastComments"] article p{
+    font-family : OpenSans-Italic;
+    line-height: 24px;
+    font-size: 14px;
+    width: 85%;
+
+    margin-bottom: 15px;
+}
+
+
+main section[id="allLast"]{
+    float:left;
+    width: 100%;
+    height:48px;
+    padding-top:60px;
+    padding-bottom:60px;
+
+    text-align: center;
+    line-height: 48px;
+}
+
+main section[id="allLast"] a{
+
+    color:#34414a;
+    text-decoration: none;
+    border:2px solid rgba(70, 87, 99, 0.65);;
+    font-size: 18px;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top:12px;
+    padding-bottom: 12px;
+
+}
+
+main section[id="allLast_news"]{
+    width:63%;
+        float:left;
+}
+
+main section[id="allLasts_comments"]{
+    width:37%;
+        float:left;
+}
